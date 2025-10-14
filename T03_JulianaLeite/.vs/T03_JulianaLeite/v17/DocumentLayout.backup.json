@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Juliana\\Desktop\\BACKUP DE ARQUIVOS\\ESTUDOS\\ADS\\IPS\\PV\\Github\\T03_JulianaLeite\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{855BAF4D-D2EC-4E48-B278-2CC60C098884}|T03_JulianaLeite.csproj|c:\\users\\juliana\\desktop\\backup de arquivos\\estudos\\ads\\ips\\pv\\github\\t03_julianaleite\\post_jl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{855BAF4D-D2EC-4E48-B278-2CC60C098884}|T03_JulianaLeite.csproj|solutionrelative:post_jl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{855BAF4D-D2EC-4E48-B278-2CC60C098884}|T03_JulianaLeite.csproj|c:\\users\\juliana\\desktop\\backup de arquivos\\estudos\\ads\\ips\\pv\\github\\t03_julianaleite\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{855BAF4D-D2EC-4E48-B278-2CC60C098884}|T03_JulianaLeite.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{855BAF4D-D2EC-4E48-B278-2CC60C098884}|T03_JulianaLeite.csproj|c:\\users\\juliana\\desktop\\backup de arquivos\\estudos\\ads\\ips\\pv\\github\\t03_julianaleite\\messagepost_jl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{855BAF4D-D2EC-4E48-B278-2CC60C098884}|T03_JulianaLeite.csproj|solutionrelative:messagepost_jl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{855BAF4D-D2EC-4E48-B278-2CC60C098884}|T03_JulianaLeite.csproj|c:\\users\\juliana\\desktop\\backup de arquivos\\estudos\\ads\\ips\\pv\\github\\t03_julianaleite\\newsfeed_jl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{855BAF4D-D2EC-4E48-B278-2CC60C098884}|T03_JulianaLeite.csproj|solutionrelative:newsfeed_jl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{855BAF4D-D2EC-4E48-B278-2CC60C098884}|T03_JulianaLeite.csproj|c:\\users\\juliana\\desktop\\backup de arquivos\\estudos\\ads\\ips\\pv\\github\\t03_julianaleite\\photopost_jl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{855BAF4D-D2EC-4E48-B278-2CC60C098884}|T03_JulianaLeite.csproj|solutionrelative:photopost_jl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Post_JL.cs",
+              "DocumentMoniker": "C:\\Users\\Juliana\\Desktop\\BACKUP DE ARQUIVOS\\ESTUDOS\\ADS\\IPS\\PV\\Github\\T03_JulianaLeite\\Post_JL.cs",
+              "RelativeDocumentMoniker": "Post_JL.cs",
+              "ToolTip": "C:\\Users\\Juliana\\Desktop\\BACKUP DE ARQUIVOS\\ESTUDOS\\ADS\\IPS\\PV\\Github\\T03_JulianaLeite\\Post_JL.cs",
+              "RelativeToolTip": "Post_JL.cs",
+              "ViewState": "AgIAAAEAAACA//////8XwFQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T19:23:04.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Juliana\\Desktop\\BACKUP DE ARQUIVOS\\ESTUDOS\\ADS\\IPS\\PV\\Github\\T03_JulianaLeite\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Juliana\\Desktop\\BACKUP DE ARQUIVOS\\ESTUDOS\\ADS\\IPS\\PV\\Github\\T03_JulianaLeite\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAAAEkAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T16:49:39.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NewsFeed_JL.cs",
+              "DocumentMoniker": "C:\\Users\\Juliana\\Desktop\\BACKUP DE ARQUIVOS\\ESTUDOS\\ADS\\IPS\\PV\\Github\\T03_JulianaLeite\\NewsFeed_JL.cs",
+              "RelativeDocumentMoniker": "NewsFeed_JL.cs",
+              "ToolTip": "C:\\Users\\Juliana\\Desktop\\BACKUP DE ARQUIVOS\\ESTUDOS\\ADS\\IPS\\PV\\Github\\T03_JulianaLeite\\NewsFeed_JL.cs",
+              "RelativeToolTip": "NewsFeed_JL.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAACAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T20:00:00.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MessagePost_JL.cs",
+              "DocumentMoniker": "C:\\Users\\Juliana\\Desktop\\BACKUP DE ARQUIVOS\\ESTUDOS\\ADS\\IPS\\PV\\Github\\T03_JulianaLeite\\MessagePost_JL.cs",
+              "RelativeDocumentMoniker": "MessagePost_JL.cs",
+              "ToolTip": "C:\\Users\\Juliana\\Desktop\\BACKUP DE ARQUIVOS\\ESTUDOS\\ADS\\IPS\\PV\\Github\\T03_JulianaLeite\\MessagePost_JL.cs",
+              "RelativeToolTip": "MessagePost_JL.cs",
+              "ViewState": "AgIAAB4AAACAZmZmZmYswCwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T19:30:51.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PhotoPost_JL.cs",
+              "DocumentMoniker": "C:\\Users\\Juliana\\Desktop\\BACKUP DE ARQUIVOS\\ESTUDOS\\ADS\\IPS\\PV\\Github\\T03_JulianaLeite\\PhotoPost_JL.cs",
+              "RelativeDocumentMoniker": "PhotoPost_JL.cs",
+              "ToolTip": "C:\\Users\\Juliana\\Desktop\\BACKUP DE ARQUIVOS\\ESTUDOS\\ADS\\IPS\\PV\\Github\\T03_JulianaLeite\\PhotoPost_JL.cs",
+              "RelativeToolTip": "PhotoPost_JL.cs",
+              "ViewState": "AgIAABUAAAAANDMzMzMDwCgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T19:31:05.123Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

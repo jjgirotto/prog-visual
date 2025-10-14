@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Juliana\\Desktop\\BACKUP DE ARQUIVOS\\ESTUDOS\\ADS\\IPS\\PV\\Github\\T03_JulianaLeite\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Juliana\\Desktop\\BACKUP DE ARQUIVOS\\ESTUDOS\\ADS\\IPS\\PV\\Github\\T03_JulianaLeite\\Post_JL.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Post_JL.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Juliana\\Desktop\\BACKUP DE ARQUIVOS\\ESTUDOS\\ADS\\IPS\\PV\\Github\\T03_JulianaLeite\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Juliana\\Desktop\\BACKUP DE ARQUIVOS\\ESTUDOS\\ADS\\IPS\\PV\\Github\\T03_JulianaLeite\\NewsFeed_JL.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:NewsFeed_JL.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Juliana\\Desktop\\BACKUP DE ARQUIVOS\\ESTUDOS\\ADS\\IPS\\PV\\Github\\T03_JulianaLeite\\MessagePost_JL.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MessagePost_JL.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Juliana\\Desktop\\BACKUP DE ARQUIVOS\\ESTUDOS\\ADS\\IPS\\PV\\Github\\T03_JulianaLeite\\PhotoPost_JL.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PhotoPost_JL.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Post_JL.cs",
+              "DocumentMoniker": "C:\\Users\\Juliana\\Desktop\\BACKUP DE ARQUIVOS\\ESTUDOS\\ADS\\IPS\\PV\\Github\\T03_JulianaLeite\\Post_JL.cs",
+              "RelativeDocumentMoniker": "Post_JL.cs",
+              "ToolTip": "C:\\Users\\Juliana\\Desktop\\BACKUP DE ARQUIVOS\\ESTUDOS\\ADS\\IPS\\PV\\Github\\T03_JulianaLeite\\Post_JL.cs",
+              "RelativeToolTip": "Post_JL.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAowEgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T19:23:04.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Juliana\\Desktop\\BACKUP DE ARQUIVOS\\ESTUDOS\\ADS\\IPS\\PV\\Github\\T03_JulianaLeite\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Juliana\\Desktop\\BACKUP DE ARQUIVOS\\ESTUDOS\\ADS\\IPS\\PV\\Github\\T03_JulianaLeite\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAAAEkAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T16:49:39.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NewsFeed_JL.cs",
+              "DocumentMoniker": "C:\\Users\\Juliana\\Desktop\\BACKUP DE ARQUIVOS\\ESTUDOS\\ADS\\IPS\\PV\\Github\\T03_JulianaLeite\\NewsFeed_JL.cs",
+              "RelativeDocumentMoniker": "NewsFeed_JL.cs",
+              "ToolTip": "C:\\Users\\Juliana\\Desktop\\BACKUP DE ARQUIVOS\\ESTUDOS\\ADS\\IPS\\PV\\Github\\T03_JulianaLeite\\NewsFeed_JL.cs",
+              "RelativeToolTip": "NewsFeed_JL.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAACAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T20:00:00.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MessagePost_JL.cs",
+              "DocumentMoniker": "C:\\Users\\Juliana\\Desktop\\BACKUP DE ARQUIVOS\\ESTUDOS\\ADS\\IPS\\PV\\Github\\T03_JulianaLeite\\MessagePost_JL.cs",
+              "RelativeDocumentMoniker": "MessagePost_JL.cs",
+              "ToolTip": "C:\\Users\\Juliana\\Desktop\\BACKUP DE ARQUIVOS\\ESTUDOS\\ADS\\IPS\\PV\\Github\\T03_JulianaLeite\\MessagePost_JL.cs",
+              "RelativeToolTip": "MessagePost_JL.cs",
+              "ViewState": "AgIAAB4AAACAZmZmZmYswCwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T19:30:51.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PhotoPost_JL.cs",
+              "DocumentMoniker": "C:\\Users\\Juliana\\Desktop\\BACKUP DE ARQUIVOS\\ESTUDOS\\ADS\\IPS\\PV\\Github\\T03_JulianaLeite\\PhotoPost_JL.cs",
+              "RelativeDocumentMoniker": "PhotoPost_JL.cs",
+              "ToolTip": "C:\\Users\\Juliana\\Desktop\\BACKUP DE ARQUIVOS\\ESTUDOS\\ADS\\IPS\\PV\\Github\\T03_JulianaLeite\\PhotoPost_JL.cs",
+              "RelativeToolTip": "PhotoPost_JL.cs",
+              "ViewState": "AgIAABUAAAAANDMzMzMDwCgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T19:31:05.123Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
