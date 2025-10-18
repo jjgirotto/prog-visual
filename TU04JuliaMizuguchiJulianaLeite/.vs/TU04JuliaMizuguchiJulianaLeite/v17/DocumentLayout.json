@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Juliana\\Desktop\\BACKUP DE ARQUIVOS\\ESTUDOS\\ADS\\IPS\\PV\\Github\\TU04JuliaMizuguchiJulianaLeite\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{05AAC3A1-5498-43BA-9E1A-3BC825DEAAA3}|TU04JuliaMizuguchiJulianaLeite.csproj|c:\\users\\juliana\\desktop\\backup de arquivos\\estudos\\ads\\ips\\pv\\github\\tu04juliamizuguchijulianaleite\\desenho_jmjl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05AAC3A1-5498-43BA-9E1A-3BC825DEAAA3}|TU04JuliaMizuguchiJulianaLeite.csproj|solutionrelative:desenho_jmjl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05AAC3A1-5498-43BA-9E1A-3BC825DEAAA3}|TU04JuliaMizuguchiJulianaLeite.csproj|c:\\users\\juliana\\desktop\\backup de arquivos\\estudos\\ads\\ips\\pv\\github\\tu04juliamizuguchijulianaleite\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05AAC3A1-5498-43BA-9E1A-3BC825DEAAA3}|TU04JuliaMizuguchiJulianaLeite.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Desenho_JMJL.cs",
+              "DocumentMoniker": "C:\\Users\\Juliana\\Desktop\\BACKUP DE ARQUIVOS\\ESTUDOS\\ADS\\IPS\\PV\\Github\\TU04JuliaMizuguchiJulianaLeite\\Desenho_JMJL.cs",
+              "RelativeDocumentMoniker": "Desenho_JMJL.cs",
+              "ToolTip": "C:\\Users\\Juliana\\Desktop\\BACKUP DE ARQUIVOS\\ESTUDOS\\ADS\\IPS\\PV\\Github\\TU04JuliaMizuguchiJulianaLeite\\Desenho_JMJL.cs",
+              "RelativeToolTip": "Desenho_JMJL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T10:24:25.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Juliana\\Desktop\\BACKUP DE ARQUIVOS\\ESTUDOS\\ADS\\IPS\\PV\\Github\\TU04JuliaMizuguchiJulianaLeite\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Juliana\\Desktop\\BACKUP DE ARQUIVOS\\ESTUDOS\\ADS\\IPS\\PV\\Github\\TU04JuliaMizuguchiJulianaLeite\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAgwGQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T18:32:59.094Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\Users\Juliana\Desktop\BACKUP DE ARQUIVOS\ESTUDOS\ADS\IPS\PV\Github\TU04JuliaMizuguchiJulianaLeite\bin\Debug\net9.0\TU04JuliaMizuguchiJulianaLeite.exe
+C:\Users\Juliana\Desktop\BACKUP DE ARQUIVOS\ESTUDOS\ADS\IPS\PV\Github\TU04JuliaMizuguchiJulianaLeite\bin\Debug\net9.0\TU04JuliaMizuguchiJulianaLeite.deps.json
+C:\Users\Juliana\Desktop\BACKUP DE ARQUIVOS\ESTUDOS\ADS\IPS\PV\Github\TU04JuliaMizuguchiJulianaLeite\bin\Debug\net9.0\TU04JuliaMizuguchiJulianaLeite.runtimeconfig.json
+C:\Users\Juliana\Desktop\BACKUP DE ARQUIVOS\ESTUDOS\ADS\IPS\PV\Github\TU04JuliaMizuguchiJulianaLeite\bin\Debug\net9.0\TU04JuliaMizuguchiJulianaLeite.dll
+C:\Users\Juliana\Desktop\BACKUP DE ARQUIVOS\ESTUDOS\ADS\IPS\PV\Github\TU04JuliaMizuguchiJulianaLeite\bin\Debug\net9.0\TU04JuliaMizuguchiJulianaLeite.pdb
+C:\Users\Juliana\Desktop\BACKUP DE ARQUIVOS\ESTUDOS\ADS\IPS\PV\Github\TU04JuliaMizuguchiJulianaLeite\obj\Debug\net9.0\TU04JuliaMizuguchiJulianaLeite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juliana\Desktop\BACKUP DE ARQUIVOS\ESTUDOS\ADS\IPS\PV\Github\TU04JuliaMizuguchiJulianaLeite\obj\Debug\net9.0\TU04JuliaMizuguchiJulianaLeite.AssemblyInfoInputs.cache
+C:\Users\Juliana\Desktop\BACKUP DE ARQUIVOS\ESTUDOS\ADS\IPS\PV\Github\TU04JuliaMizuguchiJulianaLeite\obj\Debug\net9.0\TU04JuliaMizuguchiJulianaLeite.AssemblyInfo.cs
+C:\Users\Juliana\Desktop\BACKUP DE ARQUIVOS\ESTUDOS\ADS\IPS\PV\Github\TU04JuliaMizuguchiJulianaLeite\obj\Debug\net9.0\TU04JuliaMizuguchiJulianaLeite.csproj.CoreCompileInputs.cache
+C:\Users\Juliana\Desktop\BACKUP DE ARQUIVOS\ESTUDOS\ADS\IPS\PV\Github\TU04JuliaMizuguchiJulianaLeite\obj\Debug\net9.0\TU04JuliaMizuguchiJulianaLeite.sourcelink.json
+C:\Users\Juliana\Desktop\BACKUP DE ARQUIVOS\ESTUDOS\ADS\IPS\PV\Github\TU04JuliaMizuguchiJulianaLeite\obj\Debug\net9.0\TU04JuliaMizuguchiJulianaLeite.dll
+C:\Users\Juliana\Desktop\BACKUP DE ARQUIVOS\ESTUDOS\ADS\IPS\PV\Github\TU04JuliaMizuguchiJulianaLeite\obj\Debug\net9.0\refint\TU04JuliaMizuguchiJulianaLeite.dll
+C:\Users\Juliana\Desktop\BACKUP DE ARQUIVOS\ESTUDOS\ADS\IPS\PV\Github\TU04JuliaMizuguchiJulianaLeite\obj\Debug\net9.0\TU04JuliaMizuguchiJulianaLeite.pdb
+C:\Users\Juliana\Desktop\BACKUP DE ARQUIVOS\ESTUDOS\ADS\IPS\PV\Github\TU04JuliaMizuguchiJulianaLeite\obj\Debug\net9.0\TU04JuliaMizuguchiJulianaLeite.genruntimeconfig.cache
+C:\Users\Juliana\Desktop\BACKUP DE ARQUIVOS\ESTUDOS\ADS\IPS\PV\Github\TU04JuliaMizuguchiJulianaLeite\obj\Debug\net9.0\ref\TU04JuliaMizuguchiJulianaLeite.dll
