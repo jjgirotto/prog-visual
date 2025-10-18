@@ -1,0 +1,15 @@
+C:\Users\Juliana\Desktop\BACKUP DE ARQUIVOS\ESTUDOS\ADS\IPS\PV\Github\T04_Pratica_JuliaMizuguchiJulianaLeite\bin\Debug\net9.0\T04_Pratica_JuliaMizuguchiJulianaLeite.exe
+C:\Users\Juliana\Desktop\BACKUP DE ARQUIVOS\ESTUDOS\ADS\IPS\PV\Github\T04_Pratica_JuliaMizuguchiJulianaLeite\bin\Debug\net9.0\T04_Pratica_JuliaMizuguchiJulianaLeite.deps.json
+C:\Users\Juliana\Desktop\BACKUP DE ARQUIVOS\ESTUDOS\ADS\IPS\PV\Github\T04_Pratica_JuliaMizuguchiJulianaLeite\bin\Debug\net9.0\T04_Pratica_JuliaMizuguchiJulianaLeite.runtimeconfig.json
+C:\Users\Juliana\Desktop\BACKUP DE ARQUIVOS\ESTUDOS\ADS\IPS\PV\Github\T04_Pratica_JuliaMizuguchiJulianaLeite\bin\Debug\net9.0\T04_Pratica_JuliaMizuguchiJulianaLeite.dll
+C:\Users\Juliana\Desktop\BACKUP DE ARQUIVOS\ESTUDOS\ADS\IPS\PV\Github\T04_Pratica_JuliaMizuguchiJulianaLeite\bin\Debug\net9.0\T04_Pratica_JuliaMizuguchiJulianaLeite.pdb
+C:\Users\Juliana\Desktop\BACKUP DE ARQUIVOS\ESTUDOS\ADS\IPS\PV\Github\T04_Pratica_JuliaMizuguchiJulianaLeite\obj\Debug\net9.0\T04_Pratica_JuliaMizuguchiJulianaLeite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juliana\Desktop\BACKUP DE ARQUIVOS\ESTUDOS\ADS\IPS\PV\Github\T04_Pratica_JuliaMizuguchiJulianaLeite\obj\Debug\net9.0\T04_Pratica_JuliaMizuguchiJulianaLeite.AssemblyInfoInputs.cache
+C:\Users\Juliana\Desktop\BACKUP DE ARQUIVOS\ESTUDOS\ADS\IPS\PV\Github\T04_Pratica_JuliaMizuguchiJulianaLeite\obj\Debug\net9.0\T04_Pratica_JuliaMizuguchiJulianaLeite.AssemblyInfo.cs
+C:\Users\Juliana\Desktop\BACKUP DE ARQUIVOS\ESTUDOS\ADS\IPS\PV\Github\T04_Pratica_JuliaMizuguchiJulianaLeite\obj\Debug\net9.0\T04_Pratica_JuliaMizuguchiJulianaLeite.csproj.CoreCompileInputs.cache
+C:\Users\Juliana\Desktop\BACKUP DE ARQUIVOS\ESTUDOS\ADS\IPS\PV\Github\T04_Pratica_JuliaMizuguchiJulianaLeite\obj\Debug\net9.0\T04_Pratica_JuliaMizuguchiJulianaLeite.sourcelink.json
+C:\Users\Juliana\Desktop\BACKUP DE ARQUIVOS\ESTUDOS\ADS\IPS\PV\Github\T04_Pratica_JuliaMizuguchiJulianaLeite\obj\Debug\net9.0\T04_Pratica_JuliaMizuguchiJulianaLeite.dll
+C:\Users\Juliana\Desktop\BACKUP DE ARQUIVOS\ESTUDOS\ADS\IPS\PV\Github\T04_Pratica_JuliaMizuguchiJulianaLeite\obj\Debug\net9.0\refint\T04_Pratica_JuliaMizuguchiJulianaLeite.dll
+C:\Users\Juliana\Desktop\BACKUP DE ARQUIVOS\ESTUDOS\ADS\IPS\PV\Github\T04_Pratica_JuliaMizuguchiJulianaLeite\obj\Debug\net9.0\T04_Pratica_JuliaMizuguchiJulianaLeite.pdb
+C:\Users\Juliana\Desktop\BACKUP DE ARQUIVOS\ESTUDOS\ADS\IPS\PV\Github\T04_Pratica_JuliaMizuguchiJulianaLeite\obj\Debug\net9.0\T04_Pratica_JuliaMizuguchiJulianaLeite.genruntimeconfig.cache
+C:\Users\Juliana\Desktop\BACKUP DE ARQUIVOS\ESTUDOS\ADS\IPS\PV\Github\T04_Pratica_JuliaMizuguchiJulianaLeite\obj\Debug\net9.0\ref\T04_Pratica_JuliaMizuguchiJulianaLeite.dll

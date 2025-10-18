@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "T04_Pratica_JuliaMizuguchiJulianaLeite/1.0.0": {
+        "runtime": {
+          "T04_Pratica_JuliaMizuguchiJulianaLeite.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "T04_Pratica_JuliaMizuguchiJulianaLeite/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
