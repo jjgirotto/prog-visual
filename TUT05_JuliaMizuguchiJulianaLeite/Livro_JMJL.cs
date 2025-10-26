@@ -15,6 +15,33 @@
             Stock_JMJL = stock_JMJL;
         }
 
+        public override bool Equals(object obj)
+        {
+            //Is null (como o objeto que invoca não pode ser null)
+            if (Object.ReferenceEquals(null, obj))
+            {
+                return false;
+            }
+            //Is the same object
+            if (Object.ReferenceEquals(this, obj))
+            {
+                return true;
+            }
+            // Not same type
+            if (obj.GetType() != this.GetType())
+            {
+                return false;
+            }
+            //Is the same type -> podemos fazer cast seguro
+            Livro_JMJL l = obj as Livro_JMJL;
+            return String.Equals(Isbn_JMJL, l.Isbn_JMJL);
+        }
+
+        public override int GetHashCode()
+        {
+            return Isbn_JMJL.GetHashCode();
+        }
+
         public override string ToString()
         {
             return "Título: " + Titulo_JMJL + " | ISBN: " + Isbn_JMJL + " | Autor: " + Autor_JMJL + " | Stock: " + Stock_JMJL;
