@@ -219,20 +219,37 @@ namespace TUT05_JuliaMizuguchiJulianaLeite
             "\n*** 4) É fácil reconhecer nos Dictionary o" +
             "\n*** \t equivalente aos Map<K,V> do java");
 
-            Dictionary<Aluno_JMJL, int> notasPV_JMJL = new Dictionary<Aluno_JMJL, int>();
-            notasPV_JMJL.TryAdd(a1_JMJL, 18);
-            notasPV_JMJL.TryAdd(a2_JMJL, 18);
-            notasPV_JMJL.TryAdd(a1_JMJL, 18);
-            notasPV_JMJL.TryAdd(new Aluno_JMJL("Julia Mizuguchi", new DateTime(2004, 6, 21),
-                new CartaoDoCidadao_JMJL("987654321", new DateTime(2050, 12, 25)), "2025116155"), 18);
-            notasPV_JMJL.TryAdd(new Aluno_JMJL("Juliana Leite", new DateTime(1996, 8, 8),
-                new CartaoDoCidadao_JMJL("988644456", new DateTime(2050, 12, 25)), "2025116166"), 18);
-            Console.WriteLine("\nImpressão pelas chaves: alunos");
-            foreach (Aluno_JMJL a in notasPV_JMJL.Keys) Console.WriteLine(a);
-            Console.WriteLine("\nImpressão pelos valores: notas");
-            foreach (int nota in notasPV_JMJL.Values) Console.WriteLine(nota);
-            Console.WriteLine("\nImpressão pelas chaves e valores: alunos e notas");
-            foreach (KeyValuePair<Aluno_JMJL, int> par in notasPV_JMJL) Console.WriteLine(par);
+            //Declaração da tabela
+            Dictionary<Aluno_JMJL, int> notasDePv_JMJL;
+            // Criação da tabela
+            notasDePv_JMJL = new Dictionary<Aluno_JMJL, int>();
+            //Inicialização de pares <chave, valor>
+            notasDePv_JMJL.TryAdd(a1_JMJL, 10);
+            notasDePv_JMJL.TryAdd(a1_JMJL, 15);
+            notasDePv_JMJL.TryAdd(a2_JMJL, 10);
+            notasDePv_JMJL.TryAdd(new Aluno_JMJL("Siznando Simeão", new DateTime(1141, 2, 23),
+                new CartaoDoCidadao_JMJL("123987456", new DateTime(1150, 12, 25)), "2025123123"), 10);
+            notasDePv_JMJL.TryAdd(new Aluno_JMJL("Siznanda Simeão", new DateTime(1141, 2, 23),
+                new CartaoDoCidadao_JMJL("123987456", new DateTime(1150, 12, 25)), "2025116166"), 10);
+            //Alteração da nota do aluno a1
+            notasDePv_JMJL[a1_JMJL] = 14;
+            Aluno_JMJL? alunoEncontrado_JMJL = null;
+            
+            //Iteração pelas chaves
+            foreach (Aluno_JMJL a in notasDePv_JMJL.Keys)
+            {
+                if (a.NumeroDeAluno_JMJL.Equals("2025123123")) alunoEncontrado_JMJL = a;
+            }
+            notasDePv_JMJL[alunoEncontrado_JMJL] = 14;
+
+            Console.WriteLine("\n**************** Notas");
+            //Iteração pelos valores
+            foreach (int i in notasDePv_JMJL.Values) Console.WriteLine(i);
+
+            Console.WriteLine("\n**************** Alunos e Notas");
+            //Iteração por chave e valor
+            //foreach (KeyValuePair<Aluno_JMJL, int> par in notasDePv_JMJL) Console.WriteLine(par);
+            foreach (var v in notasDePv_JMJL) Console.WriteLine(v.Value + " - " + v.Key);
 
             Console.WriteLine("\nLIVRARIA");
             LivrariaComStock_JMJL livrariaComStock_JMJL = new LivrariaComStock_JMJL("Livraria Ju's");
