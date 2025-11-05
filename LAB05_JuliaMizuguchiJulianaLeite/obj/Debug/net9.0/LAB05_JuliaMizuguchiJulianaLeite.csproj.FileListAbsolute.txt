@@ -13,3 +13,18 @@ C:\Users\Juliana\Desktop\BACKUP DE ARQUIVOS\ESTUDOS\ADS\IPS\PV\Github\LAB05_Juli
 C:\Users\Juliana\Desktop\BACKUP DE ARQUIVOS\ESTUDOS\ADS\IPS\PV\Github\LAB05_JuliaMizuguchiJulianaLeite\obj\Debug\net9.0\LAB05_JuliaMizuguchiJulianaLeite.pdb
 C:\Users\Juliana\Desktop\BACKUP DE ARQUIVOS\ESTUDOS\ADS\IPS\PV\Github\LAB05_JuliaMizuguchiJulianaLeite\obj\Debug\net9.0\LAB05_JuliaMizuguchiJulianaLeite.genruntimeconfig.cache
 C:\Users\Juliana\Desktop\BACKUP DE ARQUIVOS\ESTUDOS\ADS\IPS\PV\Github\LAB05_JuliaMizuguchiJulianaLeite\obj\Debug\net9.0\ref\LAB05_JuliaMizuguchiJulianaLeite.dll
+C:\Users\Julia\Documents\IPS\PV\LAB05_JuliaMizuguchiJulianaLeite\bin\Debug\net9.0\LAB05_JuliaMizuguchiJulianaLeite.exe
+C:\Users\Julia\Documents\IPS\PV\LAB05_JuliaMizuguchiJulianaLeite\bin\Debug\net9.0\LAB05_JuliaMizuguchiJulianaLeite.deps.json
+C:\Users\Julia\Documents\IPS\PV\LAB05_JuliaMizuguchiJulianaLeite\bin\Debug\net9.0\LAB05_JuliaMizuguchiJulianaLeite.runtimeconfig.json
+C:\Users\Julia\Documents\IPS\PV\LAB05_JuliaMizuguchiJulianaLeite\bin\Debug\net9.0\LAB05_JuliaMizuguchiJulianaLeite.dll
+C:\Users\Julia\Documents\IPS\PV\LAB05_JuliaMizuguchiJulianaLeite\bin\Debug\net9.0\LAB05_JuliaMizuguchiJulianaLeite.pdb
+C:\Users\Julia\Documents\IPS\PV\LAB05_JuliaMizuguchiJulianaLeite\obj\Debug\net9.0\LAB05_JuliaMizuguchiJulianaLeite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Julia\Documents\IPS\PV\LAB05_JuliaMizuguchiJulianaLeite\obj\Debug\net9.0\LAB05_JuliaMizuguchiJulianaLeite.AssemblyInfoInputs.cache
+C:\Users\Julia\Documents\IPS\PV\LAB05_JuliaMizuguchiJulianaLeite\obj\Debug\net9.0\LAB05_JuliaMizuguchiJulianaLeite.AssemblyInfo.cs
+C:\Users\Julia\Documents\IPS\PV\LAB05_JuliaMizuguchiJulianaLeite\obj\Debug\net9.0\LAB05_JuliaMizuguchiJulianaLeite.csproj.CoreCompileInputs.cache
+C:\Users\Julia\Documents\IPS\PV\LAB05_JuliaMizuguchiJulianaLeite\obj\Debug\net9.0\LAB05_JuliaMizuguchiJulianaLeite.sourcelink.json
+C:\Users\Julia\Documents\IPS\PV\LAB05_JuliaMizuguchiJulianaLeite\obj\Debug\net9.0\LAB05_JuliaMizuguchiJulianaLeite.dll
+C:\Users\Julia\Documents\IPS\PV\LAB05_JuliaMizuguchiJulianaLeite\obj\Debug\net9.0\refint\LAB05_JuliaMizuguchiJulianaLeite.dll
+C:\Users\Julia\Documents\IPS\PV\LAB05_JuliaMizuguchiJulianaLeite\obj\Debug\net9.0\LAB05_JuliaMizuguchiJulianaLeite.pdb
+C:\Users\Julia\Documents\IPS\PV\LAB05_JuliaMizuguchiJulianaLeite\obj\Debug\net9.0\LAB05_JuliaMizuguchiJulianaLeite.genruntimeconfig.cache
+C:\Users\Julia\Documents\IPS\PV\LAB05_JuliaMizuguchiJulianaLeite\obj\Debug\net9.0\ref\LAB05_JuliaMizuguchiJulianaLeite.dll

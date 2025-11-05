@@ -63,11 +63,7 @@ namespace LAB05_JuliaMizuguchiJulianaLeite
                 UnitPrice_JMJL = 10.1M,
                 UnitsInStock_JMJL = 15
             });
-            bebidasMenos25_JMJL = from i in products
-                                  where i.Category_JMJL == "Beverages"
-                                      && i.UnitPrice_JMJL < 25
-                                  orderby i.UnitPrice_JMJL
-                                  select i;
+
             Console.WriteLine("\nDepois de adicionar 78 e 79");
             foreach (Product_JMJL product in bebidasMenos25_JMJL)
                 Console.WriteLine(product);
@@ -104,7 +100,7 @@ namespace LAB05_JuliaMizuguchiJulianaLeite
             var produtosOrdenados_JMJL = products.OrderBy(p => p.UnitPrice_JMJL);
             foreach (Product_JMJL product in produtosOrdenados_JMJL)
                 Console.WriteLine(product);
-            Console.WriteLine("\nA lista de categorias únicas(sem repetição)");
+            Console.WriteLine("\nA lista de categorias únicas (sem repetição)");
             var categorias_JMJL = products.Select(p => p.Category_JMJL).Distinct();
             foreach (var categoria in categorias_JMJL)
                 Console.WriteLine(categoria);
@@ -140,6 +136,64 @@ namespace LAB05_JuliaMizuguchiJulianaLeite
             Console.ReadLine();
             Produtos_JMJL produtos_JMJL = new Produtos_JMJL();
             produtos_JMJL.AddRange(products);
+
+            foreach (var p in produtos_JMJL.TodosOsProdutos_JMJL())
+                Console.WriteLine(p);
+
+            foreach (var p in produtos_JMJL.ProdutosSemStock_JMJL())
+                Console.WriteLine(p);
+
+            foreach (var p in produtos_JMJL.CondimentosOrdemAlfabetica_JMJL())
+                Console.WriteLine(p);
+
+            foreach (var p in produtos_JMJL.BebidasMenos25_JMJL())
+                Console.WriteLine(p);
+
+
+            Console.WriteLine(produtos_JMJL.PrecoMaisBarato_JMJL());
+            Console.WriteLine(produtos_JMJL.PrecoMaisCaro_JMJL());
+            Console.WriteLine(produtos_JMJL.ValorMedio_JMJL());
+
+            foreach (var p in produtos_JMJL.ProdutosEValor_JMJL())
+                Console.WriteLine(p);
+
+            foreach (var p in produtos_JMJL.PrecoOrdemAscendente_JMJL())
+                Console.WriteLine(p);
+
+            foreach (var c in produtos_JMJL.CategoriasUnicas_JMJL())
+                Console.WriteLine(c);
+
+            Console.WriteLine(produtos_JMJL.ValorMaiorQue200_JMJL());
+
+            Console.WriteLine(produtos_JMJL.MediaStock_JMJL());
+
+            foreach (var p in produtos_JMJL.Produtos3MaisQue50_JMJL())
+                Console.WriteLine(p);
+
+            foreach (var p in produtos_JMJL.Produtos4E5ComC_JMJL())
+                Console.WriteLine(p);
+
+            foreach (var p in produtos_JMJL.ProdutosCategoriaNome_JMJL())
+                Console.WriteLine(p);
+
+            foreach (var grupo in produtos_JMJL.CategoriaEProdutos_JMJL())
+            {
+                Console.WriteLine($"\nCategoria: {grupo.Key}");
+                foreach (var product in grupo)
+                    Console.WriteLine(product);
+            }
+
+            Console.WriteLine("\nExemplo de Venda\n");
+            Stock_JMJL stock_JMJL = new Stock_JMJL();
+            Product_JMJL p1_JMJL = produtos_JMJL[2];
+
+            stock_JMJL[p1_JMJL] = p1_JMJL.UnitsInStock_JMJL;
+            Console.WriteLine("Stock anterior à venda:\n" + stock_JMJL[p1_JMJL]);
+
+            stock_JMJL.Venda_JMJL(p1_JMJL, 5);
+            Console.WriteLine("Quantidade em stock após a venda:\n" + stock_JMJL[p1_JMJL]);
+            Console.WriteLine("Stock atualizado do produto:\n" + p1_JMJL.UnitsInStock_JMJL); 
+
 
         }
 

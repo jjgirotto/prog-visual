@@ -11,6 +11,10 @@
       "RelativeMoniker": "D:0:0:{7BDE5ADC-A08B-48AA-8E65-20AB8BD4C1E0}|LAB05_JuliaMizuguchiJulianaLeite.csproj|solutionrelative:produtos_jmjl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{7BDE5ADC-A08B-48AA-8E65-20AB8BD4C1E0}|LAB05_JuliaMizuguchiJulianaLeite.csproj|c:\\users\\juliana\\desktop\\backup de arquivos\\estudos\\ads\\ips\\pv\\github\\lab05_juliamizuguchijulianaleite\\stock_jmjl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BDE5ADC-A08B-48AA-8E65-20AB8BD4C1E0}|LAB05_JuliaMizuguchiJulianaLeite.csproj|solutionrelative:stock_jmjl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7BDE5ADC-A08B-48AA-8E65-20AB8BD4C1E0}|LAB05_JuliaMizuguchiJulianaLeite.csproj|c:\\users\\juliana\\desktop\\backup de arquivos\\estudos\\ads\\ips\\pv\\github\\lab05_juliamizuguchijulianaleite\\product_jmjl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7BDE5ADC-A08B-48AA-8E65-20AB8BD4C1E0}|LAB05_JuliaMizuguchiJulianaLeite.csproj|solutionrelative:product_jmjl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -26,29 +30,27 @@
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Stock_JMJL.cs",
+              "DocumentMoniker": "C:\\Users\\Juliana\\Desktop\\BACKUP DE ARQUIVOS\\ESTUDOS\\ADS\\IPS\\PV\\Github\\LAB05_JuliaMizuguchiJulianaLeite\\Stock_JMJL.cs",
+              "RelativeDocumentMoniker": "Stock_JMJL.cs",
+              "ToolTip": "C:\\Users\\Juliana\\Desktop\\BACKUP DE ARQUIVOS\\ESTUDOS\\ADS\\IPS\\PV\\Github\\LAB05_JuliaMizuguchiJulianaLeite\\Stock_JMJL.cs",
+              "RelativeToolTip": "Stock_JMJL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T09:25:28.996Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Produtos_JMJL.cs",
               "DocumentMoniker": "C:\\Users\\Juliana\\Desktop\\BACKUP DE ARQUIVOS\\ESTUDOS\\ADS\\IPS\\PV\\Github\\LAB05_JuliaMizuguchiJulianaLeite\\Produtos_JMJL.cs",
               "RelativeDocumentMoniker": "Produtos_JMJL.cs",
               "ToolTip": "C:\\Users\\Juliana\\Desktop\\BACKUP DE ARQUIVOS\\ESTUDOS\\ADS\\IPS\\PV\\Github\\LAB05_JuliaMizuguchiJulianaLeite\\Produtos_JMJL.cs",
               "RelativeToolTip": "Produtos_JMJL.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAiwI4AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-04T22:52:23.854Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Product_JMJL.cs",
-              "DocumentMoniker": "C:\\Users\\Juliana\\Desktop\\BACKUP DE ARQUIVOS\\ESTUDOS\\ADS\\IPS\\PV\\Github\\LAB05_JuliaMizuguchiJulianaLeite\\Product_JMJL.cs",
-              "RelativeDocumentMoniker": "Product_JMJL.cs",
-              "ToolTip": "C:\\Users\\Juliana\\Desktop\\BACKUP DE ARQUIVOS\\ESTUDOS\\ADS\\IPS\\PV\\Github\\LAB05_JuliaMizuguchiJulianaLeite\\Product_JMJL.cs",
-              "RelativeToolTip": "Product_JMJL.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAmwBgAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-04T20:12:09.936Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-04T22:52:23.854Z"
             },
             {
               "$type": "Document",
@@ -58,10 +60,22 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\Juliana\\Desktop\\BACKUP DE ARQUIVOS\\ESTUDOS\\ADS\\IPS\\PV\\Github\\LAB05_JuliaMizuguchiJulianaLeite\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAIAAAABgZmZmZmYwwIwAAAA+AAAAAAAAAA==",
+              "ViewState": "AgIAALAAAAAAAAAAAAAAAMEAAABbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-04T20:10:23.372Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product_JMJL.cs",
+              "DocumentMoniker": "C:\\Users\\Juliana\\Desktop\\BACKUP DE ARQUIVOS\\ESTUDOS\\ADS\\IPS\\PV\\Github\\LAB05_JuliaMizuguchiJulianaLeite\\Product_JMJL.cs",
+              "RelativeDocumentMoniker": "Product_JMJL.cs",
+              "ToolTip": "C:\\Users\\Juliana\\Desktop\\BACKUP DE ARQUIVOS\\ESTUDOS\\ADS\\IPS\\PV\\Github\\LAB05_JuliaMizuguchiJulianaLeite\\Product_JMJL.cs",
+              "RelativeToolTip": "Product_JMJL.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAmwBEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T20:12:09.936Z"
             }
           ]
         }

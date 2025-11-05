@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LAB05_JuliaMizuguchiJulianaLeite")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ff714f36c90bce82181f5e092f82ba0426726d35")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+110d1eb4b64cfba480834e6e17b3410b27e977fb")]
 [assembly: System.Reflection.AssemblyProductAttribute("LAB05_JuliaMizuguchiJulianaLeite")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LAB05_JuliaMizuguchiJulianaLeite")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
