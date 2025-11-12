@@ -1,0 +1,15 @@
+C:\Users\Juliana\Desktop\BACKUP DE ARQUIVOS\ESTUDOS\ADS\IPS\PV\Github\LAB06_GrupoB\bin\Debug\net9.0\LAB06_GrupoB.exe
+C:\Users\Juliana\Desktop\BACKUP DE ARQUIVOS\ESTUDOS\ADS\IPS\PV\Github\LAB06_GrupoB\bin\Debug\net9.0\LAB06_GrupoB.deps.json
+C:\Users\Juliana\Desktop\BACKUP DE ARQUIVOS\ESTUDOS\ADS\IPS\PV\Github\LAB06_GrupoB\bin\Debug\net9.0\LAB06_GrupoB.runtimeconfig.json
+C:\Users\Juliana\Desktop\BACKUP DE ARQUIVOS\ESTUDOS\ADS\IPS\PV\Github\LAB06_GrupoB\bin\Debug\net9.0\LAB06_GrupoB.dll
+C:\Users\Juliana\Desktop\BACKUP DE ARQUIVOS\ESTUDOS\ADS\IPS\PV\Github\LAB06_GrupoB\bin\Debug\net9.0\LAB06_GrupoB.pdb
+C:\Users\Juliana\Desktop\BACKUP DE ARQUIVOS\ESTUDOS\ADS\IPS\PV\Github\LAB06_GrupoB\obj\Debug\net9.0\LAB06_GrupoB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juliana\Desktop\BACKUP DE ARQUIVOS\ESTUDOS\ADS\IPS\PV\Github\LAB06_GrupoB\obj\Debug\net9.0\LAB06_GrupoB.AssemblyInfoInputs.cache
+C:\Users\Juliana\Desktop\BACKUP DE ARQUIVOS\ESTUDOS\ADS\IPS\PV\Github\LAB06_GrupoB\obj\Debug\net9.0\LAB06_GrupoB.AssemblyInfo.cs
+C:\Users\Juliana\Desktop\BACKUP DE ARQUIVOS\ESTUDOS\ADS\IPS\PV\Github\LAB06_GrupoB\obj\Debug\net9.0\LAB06_GrupoB.csproj.CoreCompileInputs.cache
+C:\Users\Juliana\Desktop\BACKUP DE ARQUIVOS\ESTUDOS\ADS\IPS\PV\Github\LAB06_GrupoB\obj\Debug\net9.0\LAB06_GrupoB.sourcelink.json
+C:\Users\Juliana\Desktop\BACKUP DE ARQUIVOS\ESTUDOS\ADS\IPS\PV\Github\LAB06_GrupoB\obj\Debug\net9.0\LAB06_GrupoB.dll
+C:\Users\Juliana\Desktop\BACKUP DE ARQUIVOS\ESTUDOS\ADS\IPS\PV\Github\LAB06_GrupoB\obj\Debug\net9.0\refint\LAB06_GrupoB.dll
+C:\Users\Juliana\Desktop\BACKUP DE ARQUIVOS\ESTUDOS\ADS\IPS\PV\Github\LAB06_GrupoB\obj\Debug\net9.0\LAB06_GrupoB.pdb
+C:\Users\Juliana\Desktop\BACKUP DE ARQUIVOS\ESTUDOS\ADS\IPS\PV\Github\LAB06_GrupoB\obj\Debug\net9.0\LAB06_GrupoB.genruntimeconfig.cache
+C:\Users\Juliana\Desktop\BACKUP DE ARQUIVOS\ESTUDOS\ADS\IPS\PV\Github\LAB06_GrupoB\obj\Debug\net9.0\ref\LAB06_GrupoB.dll

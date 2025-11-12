@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Juliana\\Desktop\\BACKUP DE ARQUIVOS\\ESTUDOS\\ADS\\IPS\\PV\\Github\\LAB06_GrupoB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{705BEAFF-A00D-4E9F-B64B-1A4B74F6406E}|LAB06_GrupoB.csproj|c:\\users\\juliana\\desktop\\backup de arquivos\\estudos\\ads\\ips\\pv\\github\\lab06_grupob\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{705BEAFF-A00D-4E9F-B64B-1A4B74F6406E}|LAB06_GrupoB.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{705BEAFF-A00D-4E9F-B64B-1A4B74F6406E}|LAB06_GrupoB.csproj|c:\\users\\juliana\\desktop\\backup de arquivos\\estudos\\ads\\ips\\pv\\github\\lab06_grupob\\stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{705BEAFF-A00D-4E9F-B64B-1A4B74F6406E}|LAB06_GrupoB.csproj|solutionrelative:stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{705BEAFF-A00D-4E9F-B64B-1A4B74F6406E}|LAB06_GrupoB.csproj|c:\\users\\juliana\\desktop\\backup de arquivos\\estudos\\ads\\ips\\pv\\github\\lab06_grupob\\bookstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{705BEAFF-A00D-4E9F-B64B-1A4B74F6406E}|LAB06_GrupoB.csproj|solutionrelative:bookstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{705BEAFF-A00D-4E9F-B64B-1A4B74F6406E}|LAB06_GrupoB.csproj|c:\\users\\juliana\\desktop\\backup de arquivos\\estudos\\ads\\ips\\pv\\github\\lab06_grupob\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{705BEAFF-A00D-4E9F-B64B-1A4B74F6406E}|LAB06_GrupoB.csproj|solutionrelative:book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Stock.cs",
+              "DocumentMoniker": "C:\\Users\\Juliana\\Desktop\\BACKUP DE ARQUIVOS\\ESTUDOS\\ADS\\IPS\\PV\\Github\\LAB06_GrupoB\\Stock.cs",
+              "RelativeDocumentMoniker": "Stock.cs",
+              "ToolTip": "C:\\Users\\Juliana\\Desktop\\BACKUP DE ARQUIVOS\\ESTUDOS\\ADS\\IPS\\PV\\Github\\LAB06_GrupoB\\Stock.cs",
+              "RelativeToolTip": "Stock.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T15:07:06.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookStore.cs",
+              "DocumentMoniker": "C:\\Users\\Juliana\\Desktop\\BACKUP DE ARQUIVOS\\ESTUDOS\\ADS\\IPS\\PV\\Github\\LAB06_GrupoB\\BookStore.cs",
+              "RelativeDocumentMoniker": "BookStore.cs",
+              "ToolTip": "C:\\Users\\Juliana\\Desktop\\BACKUP DE ARQUIVOS\\ESTUDOS\\ADS\\IPS\\PV\\Github\\LAB06_GrupoB\\BookStore.cs",
+              "RelativeToolTip": "BookStore.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAFQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T14:11:17.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\Juliana\\Desktop\\BACKUP DE ARQUIVOS\\ESTUDOS\\ADS\\IPS\\PV\\Github\\LAB06_GrupoB\\Book.cs",
+              "RelativeDocumentMoniker": "Book.cs",
+              "ToolTip": "C:\\Users\\Juliana\\Desktop\\BACKUP DE ARQUIVOS\\ESTUDOS\\ADS\\IPS\\PV\\Github\\LAB06_GrupoB\\Book.cs",
+              "RelativeToolTip": "Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T14:09:17.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Juliana\\Desktop\\BACKUP DE ARQUIVOS\\ESTUDOS\\ADS\\IPS\\PV\\Github\\LAB06_GrupoB\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Juliana\\Desktop\\BACKUP DE ARQUIVOS\\ESTUDOS\\ADS\\IPS\\PV\\Github\\LAB06_GrupoB\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAI4AAAAAAAAAAAAgwJYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T14:08:17.718Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
