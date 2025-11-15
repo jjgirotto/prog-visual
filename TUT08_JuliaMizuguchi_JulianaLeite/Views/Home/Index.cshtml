@@ -1,0 +1,16 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+    List<Musica> lista = ViewData["Musicas"] as List<Musica>;
+    Layout = "~/Views/Shared/_MyLayout.cshtml";
+}
+<div class="text-center">
+    <h1 class="display-4">@ViewData["Texto1"]</h1>
+    <p>@lista[0]</p>
+    <p>@lista[1]</p>
+    <p>@lista[2]</p>
+</div>
+
+@section Footer
+{
+    <span>Página inicial.</span>
+}

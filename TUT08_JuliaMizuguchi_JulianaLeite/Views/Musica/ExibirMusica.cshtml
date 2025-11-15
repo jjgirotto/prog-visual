@@ -1,0 +1,36 @@
+﻿@model TUT08_JuliaMizuguchi_JulianaLeite.Models.Musica
+
+@{
+    ViewData["Title"] = "Exibir Música";
+    Layout = "~/Views/Shared/_MyLayout.cshtml";
+}
+@if (@ViewBag.MusicaParaExibir != null) {
+    <h1>Música Escolhida</h1>
+
+    <div>
+        <h1>@ViewBag.MusicaParaExibir.Titulo</h1>
+        <hr />
+        <dl class="row">
+            <dt class="col-sm-2">Autor</dt>
+            <dd class="col-sm-10">@ViewBag.MusicaParaExibir.Autor</dd>
+
+            <dt class="col-sm-2">Duração (segundos)</dt>
+            <dd class="col-sm-10">@ViewBag.MusicaParaExibir.Duracao</dd>
+
+            <dt class="col-sm-2">Ficheiro (caminho)</dt>
+            <dd class="col-sm-10">@ViewBag.MusicaParaExibir.Ficheiro</dd>
+        </dl>
+    </div>
+    <h3>Player</h3>
+    <audio controls>
+        <source src="@Url.Content(@ViewBag.MusicaParaExibir.Ficheiro)" type="audio/mpeg">
+    </audio>
+}
+else
+{
+    <h1 class="text-danger">Música não encontrada!</h1>
+}
+<div>
+    @Html.ActionLink("Edit", "Edit", new { /* id = Model.PrimaryKey */ }) |
+    <a asp-action="Index">Back to List</a>
+</div>
