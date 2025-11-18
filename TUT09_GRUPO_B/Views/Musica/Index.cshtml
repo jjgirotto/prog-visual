@@ -1,0 +1,61 @@
+﻿@model IEnumerable<TUT09_GRUPO_B.Models.Musica_B>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Index</h1>
+
+<partial name="_MusicaSearchByTitle" />
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Id_B)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Titulo_B)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Autor_B)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Duracao_B)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Ficheiro_B)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Id_B)
+            <td>
+                @Html.DisplayFor(modelItem => item.Titulo_B)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Autor_B)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Duracao_B)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Ficheiro_B)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id=item.Id_B }) |
+                    @Html.ActionLink("Details", "Details", new { id = item.Id_B }) |
+                    @Html.ActionLink("Delete", "Delete", new { id = item.Id_B })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

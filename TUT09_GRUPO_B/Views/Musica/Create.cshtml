@@ -1,0 +1,44 @@
+﻿@model TUT09_GRUPO_B.Models.Musica_B
+
+@{
+    ViewData["Title"] = "Create";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Create</h1>
+
+<h4>Música</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Titulo_B" class="control-label">Título</label>
+                <input asp-for="Titulo_B" class="form-control" />
+                <span asp-validation-for="Titulo_B" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Autor_B" class="control-label">Autor</label>
+                <input asp-for="Autor_B" class="form-control" />
+                <span asp-validation-for="Autor_B" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Duracao_B" class="control-label">Duração</label>
+                <input asp-for="Duracao_B" class="form-control" />
+                <span asp-validation-for="Duracao_B" class="text-danger"></span>
+            </div>
+            <div class="form-group mt-2">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
