@@ -1,0 +1,54 @@
+﻿@model GB_Discoteca_JMJL.Models.Musica_JMJL
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Index</h1>
+
+<div>
+    <h4>Música</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Codigo_JMJL)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Codigo_JMJL)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Titulo_JMJL)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Titulo_JMJL)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.DataDaEdicao_JMJL)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.DataDaEdicao_JMJL)
+        </dd>
+    </dl>
+
+    <dt class="col-sm-2">
+        @Html.DisplayNameFor(model => model.Executantes_JMJL)
+    </dt>
+
+    @foreach (var item in Model.Executantes_JMJL) {
+
+        <dd class="col-sm-10">
+            @Html.DisplayFor(modelItem => item)
+        </dd>
+    }
+</div>
+
+<h4>Tocar Música</h4>
+<audio controls>
+    <source src="@ViewBag.CaminhoMusica" type="audio/mpeg">
+</audio>
+
+
+<div>
+    @Html.ActionLink("Descarregar_JMJL", "Descarregar_JMJL", new { id = Model.Codigo_JMJL})
+</div>

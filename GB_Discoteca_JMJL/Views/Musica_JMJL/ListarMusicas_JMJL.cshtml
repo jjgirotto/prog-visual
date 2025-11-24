@@ -1,0 +1,52 @@
+﻿@model IEnumerable<GB_Discoteca_JMJL.Models.Musica_JMJL>
+
+@{
+    ViewData["Title"] = "ListarMusicas_JMJL";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Listar Músicas</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Codigo_JMJL)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Titulo_JMJL)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DataDaEdicao_JMJL)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Executantes_JMJL)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Codigo_JMJL)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Titulo_JMJL)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DataDaEdicao_JMJL)
+            </td>
+
+            <td>
+                @foreach (var executante in item.Executantes_JMJL)
+                {
+                    @executante
+                
+                    <br />
+                }
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
