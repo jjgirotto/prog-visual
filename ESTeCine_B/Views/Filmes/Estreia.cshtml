@@ -1,0 +1,74 @@
+﻿@model IEnumerable<ESTeCine_B.Models.Filme>
+
+@{
+    ViewData["Title"] = "Estreia";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Estreia</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Titulo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Realizador)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Duracao)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Ano)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Atores)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Titulo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Realizador)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Duracao)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Ano)
+            </td>
+            <td>
+                <ul class="list-unstyled mb-0">
+                    @if (item.Atores != null)
+                    {
+                        foreach (var ator in item.Atores)
+                        {
+                            <li>@ator</li>
+                        }
+                    }
+                </ul>
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { titulo = item.Titulo }) |
+                @Html.ActionLink("Details", "Details", new { titulo = item.Titulo }) |
+                @Html.ActionLink("Delete", "Delete", new { titulo = item.Titulo })
+            </td>
+        </tr>
+}
+
+    </tbody>
+</table>
+<img src="~/images/dersu uzala.jpg" />
+<img src="~/images/pulp fiction.png" />
+<img src="~/images/ran.jpg" />
+<img src="~/images/stalker.jpg" />
+

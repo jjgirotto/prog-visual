@@ -1,0 +1,43 @@
+﻿@model ESTeCine_B.Models.Filme
+
+@{
+    ViewData["Title"] = "FilmeDoDia";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>FilmeDoDia</h1>
+
+<div>
+    <h4>Filme</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Titulo)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Titulo)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Realizador)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Realizador)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Ano)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Ano)
+        </dd>
+    </dl>
+    <p>@ViewData["IndexFilme"]</p>
+</div>
+    <img src="~/images/pulp fiction.png" />
+<h4>
+    <a asp-controller="Home" asp-action="DescarregarBilhete" asp-route-ficheiro="@Model.Titulo"
+       class="label label-success">Bilhete</a>
+</h4>
+<div>
+    @Html.ActionLink("Edit", "Edit", new { titulo = Model.Titulo }) |
+    <a asp-action="Index">Back to List</a>
+</div>
