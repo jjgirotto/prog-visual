@@ -1,0 +1,56 @@
+﻿@model IEnumerable<PrePaidCard_B.Models.PrePaidCard_BA>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Index</h1>
+
+<partial name="_CardHolderSearch" />
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Id_B)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.HolderName_B)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ExpiryDate_B)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Credit_B)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Id_B)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.HolderName_B)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ExpiryDate_B)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Credit_B)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id=item.Id_B }) |
+                @Html.ActionLink("Details", "Details", new { id = item.Id_B }) |
+                @Html.ActionLink("Delete", "Delete", new { id = item.Id_B })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

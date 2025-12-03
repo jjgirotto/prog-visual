@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\2025116166\\Desktop\\juliana\\pv\\PrePaidCard_B\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0A97EDBC-2D04-4E4A-B22B-AEE0E968785D}|PrePaidCard_B.csproj|c:\\users\\2025116166\\desktop\\juliana\\pv\\prepaidcard_b\\views\\cards\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0A97EDBC-2D04-4E4A-B22B-AEE0E968785D}|PrePaidCard_B.csproj|solutionrelative:views\\cards\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A97EDBC-2D04-4E4A-B22B-AEE0E968785D}|PrePaidCard_B.csproj|c:\\users\\2025116166\\desktop\\juliana\\pv\\prepaidcard_b\\views\\cards\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0A97EDBC-2D04-4E4A-B22B-AEE0E968785D}|PrePaidCard_B.csproj|solutionrelative:views\\cards\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\2025116166\\Desktop\\juliana\\pv\\PrePaidCard_B\\Views\\Cards\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Cards\\Details.cshtml",
+              "ToolTip": "C:\\Users\\2025116166\\Desktop\\juliana\\pv\\PrePaidCard_B\\Views\\Cards\\Details.cshtml",
+              "RelativeToolTip": "Views\\Cards\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-03T14:58:13.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\2025116166\\Desktop\\juliana\\pv\\PrePaidCard_B\\Views\\Cards\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Cards\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\2025116166\\Desktop\\juliana\\pv\\PrePaidCard_B\\Views\\Cards\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Cards\\Delete.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-03T14:57:04.088Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
