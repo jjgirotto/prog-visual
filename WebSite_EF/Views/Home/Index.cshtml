@@ -1,0 +1,17 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+    @model Foto;
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>@Html.DisplayNameFor(model => model.Codigo)</p>
+    <p>@Html.DisplayFor(model => model.Codigo)</p>
+    <p>@Html.DisplayNameFor(model => model.Titulo)</p>
+    <p>@Html.DisplayFor(model => model.Titulo)</p>
+    <p>@Html.DisplayNameFor(model => model.Autor)</p>
+    <p>@Html.DisplayFor(model => model.Autor)</p>
+    <p>@Html.DisplayNameFor(model => model.Preco)</p>
+    <p>@Html.DisplayFor(model => model.Preco)€</p>
+
+</div>
