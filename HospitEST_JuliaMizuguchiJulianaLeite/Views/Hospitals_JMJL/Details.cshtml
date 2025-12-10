@@ -1,0 +1,38 @@
+﻿@model HospitEST_JuliaMizuguchiJulianaLeite.Models.Hospital_JMJL
+
+@{
+    ViewData["Title"] = Model.Name_JMJL;
+}
+
+<h1>@Model.Name_JMJL</h1>
+
+<div>
+    <h4>Hospital_JMJL</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Name_JMJL)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Name_JMJL)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Location_JMJL)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Location_JMJL)
+        </dd>
+        <dt class="col-sm-2">Médicos</dt>
+        <dd class="col-sm-10">
+            <ul>
+                @foreach (var doctor in Model.Doctors_JMJL)
+                {
+                    <li>@doctor.Name_JMJL</li>
+                }
+            </ul>
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>

@@ -1,0 +1,53 @@
+﻿@model HospitEST_JuliaMizuguchiJulianaLeite.Models.Doctor_JMJL
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>Doctor_JMJL</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Name_JMJL)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Name_JMJL)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Practice_JMJL)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Practice_JMJL)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.PracticeYears_JMJL)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.PracticeYears_JMJL)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Hospital_JMJL)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Hospital_JMJL.Id_JMJL)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Patients_JMJL)
+        </dt>
+        <dd class="col-sm-10">
+            <ul>
+                @foreach (var patient in Model.Patients_JMJL)
+                {
+                    <li>@patient.Name_JMJL</li>
+                }
+            </ul>
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.Id_JMJL">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>

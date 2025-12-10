@@ -1,0 +1,36 @@
+﻿@model IEnumerable<HospitEST_JuliaMizuguchiJulianaLeite.Models.Hospital_JMJL>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Name_JMJL)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Location_JMJL)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+            <a asp-action="Details" asp-route-id="@item.Id_JMJL">
+                @item.Name_JMJL
+                    </a>
+                </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Location_JMJL)
+            </td>
+            <td>
+                <a asp-action="Details" asp-route-id="@item.Id_JMJL">Details</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
