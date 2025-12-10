@@ -1,0 +1,46 @@
+﻿@model TUT10_GRUPO_B.Models.Musica_B
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>Musica_B</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Titulo_B)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Titulo_B)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Autor_B)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Autor_B)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Duracao_B)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Duracao_B)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Ficheiro_B)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Ficheiro_B)
+        </dd>
+    </dl>
+</div>
+<h3>Player</h3>
+<audio controls>
+    <source src="@Url.Content(Model.Ficheiro_B)" type="audio/mpeg">
+</audio>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.Musica_BId">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>

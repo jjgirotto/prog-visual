@@ -1,0 +1,49 @@
+﻿@model TUT10_GRUPO_B.Models.Musica_B
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit</h1>
+
+<h4>Musica_B</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="Musica_BId" />
+            <div class="form-group">
+                <label asp-for="Titulo_B" class="control-label"></label>
+                <input asp-for="Titulo_B" class="form-control" />
+                <span asp-validation-for="Titulo_B" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Autor_B" class="control-label"></label>
+                <input asp-for="Autor_B" class="form-control" />
+                <span asp-validation-for="Autor_B" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Duracao_B" class="control-label"></label>
+                <input asp-for="Duracao_B" class="form-control" />
+                <span asp-validation-for="Duracao_B" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Ficheiro_B" class="control-label"></label>
+                <input asp-for="Ficheiro_B" class="form-control" />
+                <span asp-validation-for="Ficheiro_B" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
